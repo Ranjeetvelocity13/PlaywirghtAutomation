@@ -1,0 +1,20 @@
+{
+ 
+    "Stores":{
+
+        "LoginQA":{
+            "username": "Admin",
+            "password": "admin123"
+        },
+         "LoginSTG":{
+            "username": "Admin12",
+            "password": "admin1234"
+        },
+         "LoginPROD":{
+            "username": "Admin123",
+            "password": "admin123"
+        }
+
+    }
+
+}
